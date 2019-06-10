@@ -6,7 +6,8 @@
 #    branch: master
 #    commands:
 #      - $DOCKER_HUB_TRIGGER
-
+#
+#
 version: 2
 jobs:
   test:
